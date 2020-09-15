@@ -1,0 +1,157 @@
+a
+{
+    font-size: 300%;
+    text-shadow: 1px 1px 1px white;
+}
+
+a#foot
+{
+  
+    font-size: 100%;
+}
+a#stock
+{
+    font-size: 200%;
+    margin: 3%;
+}
+
+
+div#cuerpo
+{
+    margin: auto;
+    margin-top: 10px;
+    width: 900px;
+    height: 1000px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+}
+
+h1#titulo
+{ 
+    color: black;
+    text-align: center;
+    font-size: 500%;
+    margin: auto;
+}
+
+h2
+{
+    font-size: 400%;
+}
+img#tam2
+{
+    display: block ;
+    margin: auto;
+}
+img#tam
+{
+   
+
+    border: black 5px solid;
+  
+
+}
+
+div#cont-flu
+{
+
+    width:100%;
+    padding-right:0px;
+    padding-left:0px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.carousel-inner img
+{
+    
+    height:650px !important;
+    width:100%
+}
+
+p
+{
+    text-align: center; 
+    font-size: 17px;
+    font-family: Arial;
+}
+
+
+.copy {
+    padding-top: 30px;
+}
+
+.direccion{
+    text-align: left; 
+    font-size: 17px;
+    font-family: Arial;
+
+}
+
+
+label{
+    font-size: 17px;
+}
+input{
+    font-size: 17px;
+}
+
+.card{
+float: left;
+width: 90px;
+margin: 10px 90px;
+}
+.card-body a{
+font-size: 20px;
+
+}
+footer{
+    align-self: flex-end;
+    background-color:white;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+    
+}
+
+.card-text{
+    text-align: justify;
+}
+
+h3{
+    font-family: monospace;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+#sidebar{
+    padding-right: 5px;
+    display: block;
+    font-family:Helvetica, sans-serif;
+    width: 35%; 
+    float: right;
+    margin-top: 30px;
+
+}
+#posts{
+    float: left;
+    width: 60%;
+    font-family: Helvetica, sans-serif;
+}
+.post{
+    padding:50px;
+}
+
+.post h2{
+    margin-top: 10px;
+    font-size: 30px;
+    color: #333;
+}
+.post p{
+    margin-top: 10px;
+    line-height: 22px;
+    text-align: justify;
+}
+
